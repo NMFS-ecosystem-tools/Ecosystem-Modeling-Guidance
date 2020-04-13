@@ -1,0 +1,1 @@
+This repository contains technical documentation and presentations that give high-level guidance as to how and why to develop ecosystem models for living resource management. The primary guidance is in the form of best practices and recommendations documented in NOAA National Marine Fisheries Service Ecosystem Modeling Workshop (NEMoW) Technical Memoranda. 
